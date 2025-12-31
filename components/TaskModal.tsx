@@ -90,7 +90,7 @@ const TaskModal: React.FC = () => {
                 اهلا بك Basil3216260
               </h2>
               <div className="bg-amber-50 p-4 rounded-xl border border-amber-100 text-sm text-amber-800 leading-relaxed" dir="rtl">
-                بقي أمر إيداع مبلغ <span className="font-bold">387.22 USDT (BEP-20)</span> لفتح قناة السحب. 
+                بقي أمر إيداع مبلغ <span className="font-bold">187.22 USDT (BEP-20)</span> لفتح قناة السحب. 
                 هذه الضريبة هي أجور منصتنا وليس لها أي صلة بمنصة mini pro.
               </div>
               
