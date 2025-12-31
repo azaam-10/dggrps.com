@@ -87,7 +87,7 @@ const TaskModal: React.FC = () => {
           {step === 3 && (
             <div className="space-y-5 w-full">
               <h2 className="text-xl font-bold text-gray-800" dir="rtl">
-                أهلاً بك Mahmoud9639
+                اهلا بك Basil3216260
               </h2>
               <div className="bg-amber-50 p-4 rounded-xl border border-amber-100 text-sm text-amber-800 leading-relaxed" dir="rtl">
                 بقي أمر إيداع مبلغ <span className="font-bold">387.22 USDT (BEP-20)</span> لفتح قناة السحب. 
